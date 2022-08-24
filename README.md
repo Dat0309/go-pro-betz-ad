@@ -1,2 +1,2 @@
 # go-pro-betz-ad
-Hilight LMHT
+Highlight LMHT
